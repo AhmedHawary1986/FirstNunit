@@ -1,0 +1,9 @@
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\bin\Debug\netcoreapp3.1\Loans.deps.json
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\bin\Debug\netcoreapp3.1\Loans.dll
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\bin\Debug\netcoreapp3.1\Loans.pdb
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\obj\Debug\netcoreapp3.1\Loans.AssemblyInfoInputs.cache
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\obj\Debug\netcoreapp3.1\Loans.AssemblyInfo.cs
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\obj\Debug\netcoreapp3.1\Loans.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\obj\Debug\netcoreapp3.1\Loans.dll
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\obj\Debug\netcoreapp3.1\Loans.pdb
+C:\Users\Ahmed.Elhawary\source\repos\UnitTestCourseOne\UnitTestCourseOne\obj\Debug\netcoreapp3.1\Loans.csprojAssemblyReference.cache
